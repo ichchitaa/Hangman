@@ -15,5 +15,5 @@ The game is designed such that both lowercase and uppercase inputs by the user a
 entered, it is accepted by the program and treated like an error.
 
 The GUI:
-I implemented the graphical user interface using Python Tkinter. I made it very colorful, adding different colors for the background and all the various 
+I implemented the graphical user interface using Python Tkinter. I made it colorful, adding different colors for the background and all the various 
 text. It is easy for the player to navigate and use.
