@@ -6,7 +6,7 @@ A random word is picked by the game out of a pre-set list of words. On the GUI, 
 displayed. A counter called 'Incorrect guesses' is created and this is initially set to and displayed on the GUI as 0. A hangman frame is shown on the GUI 
 as well.
 The player is permitted 10 guesses in total and 6 errors. After every wrong guess, the 'Incorrect guesses' increases by 1 and a body part is added to the 
-hangman. If 6 wrong guesses are made, the hangman is complete and the game is lost. A message is displayed saying 'Game over! The word was <the word>!'.
+hangman. If 6 wrong guesses are made, the hangman is complete and the game is lost. A message is displayed saying 'Game over! The word was (the word)!'.
 If the player correctly guesses the word in 10 guesses (with less than 6 errors made), then a congratulatory message is displayed: 'You guessed the word! 
 Well done!'
 
