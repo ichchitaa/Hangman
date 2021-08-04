@@ -16,4 +16,4 @@ entered, it is accepted by the program and treated like an error.
 
 The GUI:
 I implemented the graphical user interface using Python Tkinter. I made it very colorful, adding different colors for the background and all the various 
-text. 
+text. It is easy for the player to navigate and use.
